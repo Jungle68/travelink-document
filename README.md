@@ -1,6 +1,8 @@
 # travelink-document
 
-# [文档](document)
+## [MarkDown 语法教程](https://github.com/Jungle68/README)
+
+## [文档](document)
 
 - [功能说明文档](document/markdown/function-introduction.md)
 - [匹配功能说明](document/markdown/function-match.md)
