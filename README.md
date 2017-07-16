@@ -1,4 +1,5 @@
 # travelink-document
+本库为`心侣项目`文档说明库，非特殊情况都使用`markdown`进行编辑。该项目所有的非接口文档都将在此处。
 
 ## [MarkDown 语法教程](https://github.com/Jungle68/README)
 
