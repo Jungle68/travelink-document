@@ -10,4 +10,4 @@
 - [一期功能说明](document/markdown/one-stage-function.md)
 
 
-## [账户信息](document/README.md)
+## [账户信息](document/markdown/README.md)
