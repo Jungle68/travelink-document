@@ -16,7 +16,7 @@
 
 | 平台 | iOS | Android |
 |:----|:----|:----|
-| 包名 | com.zhiyicx.TSPlus | com.zhiyicx.thinksnsplus |
+| 包名 |  | com.flexible.travelink|
 | 腾讯平台 key |  | EIJonihIvXbZuxC4 |
 | 腾讯平台 ID |  |  1106375814|
 | 新浪平台 key | | 1770720577 |
