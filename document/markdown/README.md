@@ -3,7 +3,7 @@
 
 | 平台 | 账户信息 | 账户密码 | 注册信息 | 备注 |
 |:----:|:----:|:----:|:----:|:----:|
-| 环融云 | travelink@163.com| travelink@163.com |  13241814468| https://developer.rongcloud.cn/overview/index/Rf43G6Kb2MrMOrWMltY=|
+| 环融云 | travelink@163.com| wjK18708286883 |  13241814468| https://developer.rongcloud.cn/overview/index/Rf43G6Kb2MrMOrWMltY=|
 | jpush 推送 |  travelink@163.com       |  wjk18708286883|  |https://www.jiguang.cn/dev/#/app/47bfbb7de80040acbb5c3749/pushEdit |
 | 友盟统计    | travelink@163.com | wjk18708286883  |  | |
 | 新浪  | 13241814468   | wjK18708286883|  |绑定手机 |
