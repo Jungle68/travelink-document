@@ -22,8 +22,8 @@
 | 新浪平台 key | | 1770720577 |
 | 新浪平台 secret | |  d7b1978ccfced0b839e99d3fcb6f6026|
 | 友盟统计 APPKey |  | 59a02d2b310c932aa800094f |
-| 微信平台 AppID | | |
-| 微信平台 AppSecret | | |
+| 微信开放平台 AppID | | wxeaa78a2bd2b104be|
+| 微信开放平台 AppSecret | | bfe17af75e3df8b7a989dedb7204e50e|
 | 融云 开发环境 AppKey |lmxuhwagl0mvd | |
 | 融云 开发环境 AppSecret |2XkpiVM3YyfT | |
 | 融云 生产环境 AppKey | | |
