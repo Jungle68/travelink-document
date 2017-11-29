@@ -24,6 +24,10 @@
 | 友盟统计 APPKey |  | 59a02d2b310c932aa800094f |
 | 微信开放平台 AppID | | wxeaa78a2bd2b104be|
 | 微信开放平台 AppSecret | | bfe17af75e3df8b7a989dedb7204e50e|
+| 微信商户平台 登录帐号 | |  1491362612@1491362612|
+| 微信商户平台  登录密码  | | 836672|
+| 微信商户平台  操作密码  | | travelink123456.|
+| 微信商户平台  API_KEY | | pA2dvsh9ViYSAHXKYfzzsvZPg3em8iQS|
 | 融云 开发环境 AppKey |lmxuhwagl0mvd | |
 | 融云 开发环境 AppSecret |2XkpiVM3YyfT | |
 | 融云 生产环境 AppKey | | |
